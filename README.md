@@ -1,4 +1,4 @@
-#CV TEMPLATE
+# CV TEMPLATE
 
 A simple CV template to test and learn HTML and CSS basics.
 
