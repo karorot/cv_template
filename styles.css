@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(239, 239, 239);
+    color: #555;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    margin: auto;
+}
+
+h1 {
+    color: #222;
+    padding-top: 1em;
+}
+
+h3 {
+    color: #333;
+}
+
+h4 {
+    color: #333;
+}
+
+a {
+    margin: auto;
+    color: #555;
+}
+
+#round-img {
+    border-radius: 50%;
+    max-width: 100%;
+    display: block;
+    margin: 40px auto;
+}
+
+.text-box {
+    background-color: white;
+    padding: 1em 2em;
+    margin: auto;
+    max-width: 500px;
+}
